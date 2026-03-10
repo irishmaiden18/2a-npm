@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "@faker-js/faker": "^10.3.0",
+    "chalk": "^4.1.2",
+    "dayjs": "^1.11.19",
+    "figlet": "^1.11.0",
+    "lodash": "^4.17.23"
+  },
+  "name": "2a-npm",
+  "version": "1.0.0",
+  "description": "- What is NPM\r - How to install third-party libraries.\r - How to work with `package.json`.\r - How scripts in `package.json` work.",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irishmaiden18/2a-npm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irishmaiden18/2a-npm/issues"
+  },
+  "homepage": "https://github.com/irishmaiden18/2a-npm#readme"
+}
