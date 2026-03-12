@@ -2,6 +2,9 @@
 
 //check npm for documentation
 
+//npm i prompt-sync
+const prompt = require("prompt-sync")({ sigint: true })
+
 //npm i chalk@4.1.2, use the older version because of a compatibility issue with the newer version
 //lets you change colors and styles of terminal text
 const chalk = require("chalk")
